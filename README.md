@@ -19,11 +19,9 @@ Write your own steps
 
 ## PROGRAM
 
-Include your code here
+
 
 ## OUTPUT
-
-Include the screenshot of your admin page.
-
+![eig](output.png)
 
 ## RESULT
