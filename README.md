@@ -56,6 +56,7 @@ class StudentdetailAdmin(admin.ModelAdmin):
 
 
 ![output](ss.png)
+![ss](sss.png)
 
 
 ## RESULT
